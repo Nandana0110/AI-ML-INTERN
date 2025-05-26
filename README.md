@@ -1,5 +1,6 @@
 # AI-ML-INTERN
 A project on data cleaning and preprocesing 
+
 Titanic Dataset Preprocessing and Cleaning
 This project focuses on preprocessing and cleaning the Titanic dataset in preparation for data analysis or machine learning modeling. The steps include data loading, exploration, handling missing values, encoding categorical variables, normalization, outlier visualization, and removal.
 Steps Performed
